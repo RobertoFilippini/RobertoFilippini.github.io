@@ -41,7 +41,7 @@ social-network-links:
   github: RobertoFilippini
 #  twitter: username
 #  reddit: username
-  linkedin: Roberto Filippini
+#  linkedin: username
   instagram: rob_filippini
 #  telephone: number
 #  telegram: yourname
@@ -51,10 +51,6 @@ social-network-links:
 # rss-description: ...
 
 # --- General options --- #
-
-# Select which social network share links to show in posts
-share-links-active:
-  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

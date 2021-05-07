@@ -19,6 +19,7 @@ E non si chiama Johnny Non ha un nome tipo Pièrre. Ma di tutti quanti i nomi di
 sta con te, Lucia. Ti ricordi tu il mio volto quando è entrato in casa mia? Io sono diventato bianco di sicuro più di lui (che è verde). Non mi scorderò mai quando tu lo presentasti a noi
 
 ## Vi presento Bong-O!#, lui viene dal Co...smo lontano. Le parole confondo quando parlo insieme a lui
+
 ##No, non ci fate caso se c'ha l'anello a...ttorno al suo pianeta, perché il pianeta suo è fatto cosi
 
 ![Lundini](https://i.ytimg.com/vi/lLy3KcwKkoE/sddefault.jpg){: .mx-auto.d-block :}
@@ -38,17 +39,17 @@ Bang-O Bong-O!#, Bang-O Bong-O!# non sta più con noi. La sua nav- l'astronave l
 Mentre si prepara al viaggio nel paes- nel pianeta suo laggiù, suo lassù... nella testa sua un abbraccio a quelli della sua trib-
 Un abbraccio a quelli della sua trigonospaziale Saturno
 
-### Notification
+### Se ne va via Bong-O!#
 
 {: .box-note}
-**Se ne va via Bong-O!#** Se ne trona al Co...smo lontano. Le parole confondo mentre parlo e mentre piango insieme a lui! No, non ci fate caso se l'italiano non mastica, ma a lui gli manca l'Africa- La fricativa alveolare, la fricativa labiodentale, la fricativa sorda, l'alveolare muta e tutte quanti le consonanti umane
+**Se ne trona al Co...smo lontano** Le parole confondo mentre parlo e mentre piango insieme a lui! No, non ci fate caso se l'italiano non mastica, ma a lui gli manca l'Africa- La fricativa alveolare, la fricativa labiodentale, la fricativa sorda, l'alveolare muta e tutte quanti le consonanti umane
 
-### Warning
+### Se ne va via Bong-O!#
 
 {: .box-warning}
-**Se ne va via Bong-O!#** Se ne torna al Co...smo lontano. Le parole confondo mentre parlo insieme a lui. No non ci fate caso se c'ha l'anello a...ttorno al suo pianeta, perché il pianeta suo è fatto cosi!
+**Se ne torna al Co...smo lontano** Le parole confondo mentre parlo insieme a lui. No non ci fate caso se c'ha l'anello a...ttorno al suo pianeta, perché il pianeta suo è fatto cosi!
 
-### Error
+### E quindi goodbye, Bong-O!#
 
 {: .box-error}
-**E quindi goodbye, Bong-O!#** A ritornatene al Con.. No, volevo dire, scusa, cosmo lontan.
+**A ritornatene al Con..** No, volevo dire, scusa, cosmo lontan.
