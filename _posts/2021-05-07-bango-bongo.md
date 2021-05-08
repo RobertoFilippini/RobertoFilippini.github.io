@@ -1,6 +1,11 @@
 ---
-layout: post title: Bang-O Bong-O!# subtitle: Il nuovo fidanzato di Lucia cover-img: /assets/img/monke.jpg
-thumbnail-img: /assets/img/lundini.jpg
+layout: post 
+title: Bang-O Bong-O!#
+date:   2021-05-07
+desc: Il nuovo fidanzato di Lucia
+keywords: "Lundini,Pezza,bango bongo"
+categories: [Life]
+icon: icon-html
 
 ---
 
