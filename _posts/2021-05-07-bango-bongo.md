@@ -5,7 +5,7 @@ date:   2021-05-07
 desc: Il nuovo fidanzato di Lucia
 keywords: "Lundini,Pezza,bango bongo"
 categories: [Life]
-icon: icon-html
+icon: fa-rocket
 
 ---
 

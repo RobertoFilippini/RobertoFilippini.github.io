@@ -12,7 +12,7 @@
   job:
     detail: Student
     i18n: liceo_leonardo_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
   present: true
 
 - name:
@@ -27,4 +27,18 @@
   job:
     detail: Student
     i18n: university_brescia_job
-  icon: fa-plus-square
+  icon: fa-university
+
+- name:
+    detail: IEEE Student Branch
+    i18n: stb1019
+  desc:
+    detail: I am part of a student association related to IEEE. Here we work to various projects, like mobile developing
+    i18n: stb1019_desc
+  date:
+    detail: Sep 2020 - today
+    i18n: stb1019_date
+  job:
+    detail: Member
+    i18n: stb1019_job
+  icon: fa-laptop-code
