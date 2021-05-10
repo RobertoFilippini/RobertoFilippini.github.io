@@ -30,17 +30,17 @@ lui (che è verde). Non mi scorderò mai quando tu lo presentasti a noi
 
 No, non ci fate caso se c'ha l'anello a...ttorno al suo pianeta, perché il pianeta suo è fatto cosi
 
-![Lundini](https://i.ytimg.com/vi/lLy3KcwKkoE/sddefault.jpg){: .mx-auto.d-block :}
+![Lundini](https://i.ytimg.com/vi/lLy3KcwKkoE/sddefault.jpg)
 
 E ormai il tuo fidanzato si è proprio sistemato a casa mia da due settimane. Mi svuota sempre il frigo, la cucina ormai
 è un casino... e lui che si mangiava solo b- cibo spaziale
 
-~~~
+```
 E ormai deve andar via, ma un po' mi manca già. 
 Perché figlia mia, in fondo non ti nego
 È strano averci dentro casa, 
 dentro a casa un ne...extraterrestre
-~~~
+```
 
 Bang-O Bong-O!#, Bang-O Bong-O!# non sta più con noi. La sua nav- l'astronave lo riporta da quelli come lui.
 
@@ -49,18 +49,15 @@ sua trib- Un abbraccio a quelli della sua trigonospaziale Saturno
 
 ### Se ne va via Bong-O!#
 
-{: .box-note}
 **Se ne trona al Co...smo lontano** Le parole confondo mentre parlo e mentre piango insieme a lui! No, non ci fate caso
 se l'italiano non mastica, ma a lui gli manca l'Africa- La fricativa alveolare, la fricativa labiodentale, la fricativa
 sorda, l'alveolare muta e tutte quanti le consonanti umane
 
 ### Se ne va via Bong-O!#
 
-{: .box-warning}
 **Se ne torna al Co...smo lontano** Le parole confondo mentre parlo insieme a lui. No non ci fate caso se c'ha l'anello
 a...ttorno al suo pianeta, perché il pianeta suo è fatto cosi!
 
 ### E quindi goodbye, Bong-O!#
 
-{: .box-error}
 **A ritornatene al Con..** No, volevo dire, scusa, cosmo lontan.
