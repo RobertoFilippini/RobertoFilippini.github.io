@@ -18,6 +18,7 @@ permalink: /
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right" id="i18_navbar">
+
           {% for section in site.data.landing %}
           <li>
             {% if section.page %}
@@ -29,6 +30,7 @@ permalink: /
             </a>
           </li>
           {% endfor %}
+
           {% for language in site.data.index.language %}
           <li>
             <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
@@ -36,11 +38,13 @@ permalink: /
             </a>
           </li>
           {% endfor %}
+
         </ul>
       </div>
     </div>
   </nav>
 </div>
+
 {% if site.index_carousel %}
 {% include carousel.html %}
 {% endif %}
@@ -51,6 +55,7 @@ permalink: /
   {% include sections/{{section.tpl}} %}
 </section>
 {% endfor %}
+
 <style>
 iframe {
   -moz-transform: scale(0.25, 0.25);
