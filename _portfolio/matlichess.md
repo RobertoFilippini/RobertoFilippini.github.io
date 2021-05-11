@@ -16,4 +16,4 @@ The application can handle chess match between players remotely or against Stock
 
 {:.list-inline}
 - Date: March 2021
-- [GitHub](https://github.com/Matlice/matlichess)
+- Github Page: [GitHub](https://github.com/Matlice/matlichess)
