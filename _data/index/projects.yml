@@ -1,9 +1,0 @@
-# projects section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Matlichess
-  i18n: matlichess
-  gh_user: Matlice
-  repo: matlichess
-  img: /static/assets/img/landing/matlichess.png
-  desc: I made this project with two colleagues to pass the exam "Advanjecd Java and C Programming". It's a graphic interface where you can play chess against a friend or the computer

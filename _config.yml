@@ -1,69 +1,39 @@
 # Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
-# Website settings
-title: Roberto Filippini
-description: Roberto's blog,use Jekyll and github pages.
-keywords: roberto filippini,filippini,blog,Jekyll,github,gh-pages
-#baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://robertofilippini.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: Roberto  # Be used at blog posts' author.
-  first_name: Roberto  # Be used at index page about me section.
-  last_name: Filippini  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: RobertoFilippini  # Leave blank if you don't have now
-  linkedin_id: roberto-filippini-57143920a # Leave blank if you don't have now
-  email: roby00fz@gmail.com  # Leave blank if you don't have now
-  instagram_username: rob_filippini
-  cv:    # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  skill_icon1:
-    - name: icon-git
-    - name: icon-python
-  skill_icon2:
-    - name: icon-python
-    - name: icon-git
-  desc: “Oh, it’s quite simple. If you are a friend, you speak the password, and the doors will open.” ~ Gandalf  # Describe yourself.
+theme: jekyll-agency
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: https-robertofilippini-github-io
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-# analytics
-## google analytics
-#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-#  id: UA-93473370-3
+title      : Your Awesome Website
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
-## google optimize
-#go:
-  # id:
+locale: "en-US" # See available languages in _data/sitetext.yml
 
-## growingIO
-#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+analytics:
+  google: #Google Analytics tracking code here
 
-## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+collections:
+  portfolio:
 
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
-
-# scss
-sass:
-  style: compressed
-
-# Build settings
-encoding: utf-8
-
-# other settings
-highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
