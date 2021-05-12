@@ -2,11 +2,12 @@
 caption:
     title: Matlichess
     subtitle: an application to play chess
-    thumbnail: assets/img/portfolio/matlichess.jpg
+    thumbnail: assets/img/portfolio/chess-pieces.png
 
+#Information needed by modals.html
 title: Matlichess
 subtitle: an application to play chess
-image: assets/img/portfolio/matlichess.jpg
+image: assets/img/portfolio/chess-pieces.png
 ---
 
 This project was developed for the Advanced Java and C Programming exam, one of the main courses in my University.

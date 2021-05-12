@@ -16,12 +16,12 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: ""
+    text: "Here there are some of the project I made or I participated to. The list will constantly grow in the future!"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "About Me"
+    title: "Timeline"
     text: ""
     section: timeline
     # left is the default
@@ -43,15 +43,10 @@ en: &DEFAULT_EN
         image: assets/img/timeline/ieee.jpg
         alt: image alt text
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
   team:
-    title: "A Little Presentation"
-    text: "testo"
-    subtext: sottotesto **bello**
+    title: "About Me"
+    text: ""
+    subtext: Hi, my name is **Roberto**, I'm a 20 years old **Computer Engineering Student** and I live in Brescia. I like to invest time in [IEEE Student Branch of Brescia](https://ieeesb.unibs.it/), which is an organization where members can work together to make awesome projects. In my free time I like to chill out with my friends.
     section: team
     people:
       - name: "Roberto Filippini"
@@ -73,7 +68,7 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Phone Number*"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
